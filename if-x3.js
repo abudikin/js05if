@@ -1,7 +1,7 @@
 //TODO: Впишите имя функции из задания вместо ...
 //TODO: Добавьте правильные параметры
 //TODO: Напишите функцию
-//11 zadanie
+//11 zadani
 
 function WeekdayName(n){
 	switch(n){
